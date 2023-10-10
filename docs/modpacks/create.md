@@ -64,3 +64,8 @@ You can create an instance by going to [the `Create` page](https://moddermore.ne
 Once you've created the list, there will be a `Modrinth pack` button that you can click to export to the Modrinth modpack format.
 
 ![Export from Moddermore](../../static/img/tutorial/moddermore.png)
+
+
+### CurseForge (with another launcher to convert the mods to modrinth versions)
+
+You CAN technically make a modpack in the CurseForge launcher, just make sure to use a DIFFERENT launcher (such as ATLauncher) in order to convert the mods to Modrinth builds of them. If mods from CurseForge do NOT have a Modrinth version, replace them with Modrinth equivalents.
